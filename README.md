@@ -12,20 +12,20 @@ Je m'appelle Charlotte, j'ai 34 ans.
 - mon chien
 
 ## Ce que je souhaite atteindre chez Becode :
-- Créer mes propres sites web et applications
-- Trouver un travail rapidement à la fin de la formation
+- créer mes propres sites web et applications
+- trouver un travail rapidement à la fin de la formation
 
 ## Mes éventuelles angoisses :
-- Ne pas comprendre le cours
+- ne pas comprendre le cours
 
 ## Ce dont j'ai hâte :
-- Réussir la formation
-- Apprendre le codage
+- réussir la formation
+- apprendre le codage
 
 ## En teamwork, j'aime :
-- Le contact avec les autres
-- L'entraide
-- Le partage 
+- le contact avec les autres
+- l'entraide
+- le partage 
 
 ## Mon GIF préféré :
 ![GIF](./mijngif.gif)
