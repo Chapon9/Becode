@@ -1,10 +1,10 @@
-# Charlotte, Junior Web Dev
-Je m'appelle Charlotte, j'ai 34 ans.  
+# Charlotte, Junior Developer
+Je m'appelle Charlotte, j'ai 34 ans. J'habite actuellement à Chaudfontaine et je me réoriente professionnellement. 
 
 ## 3 compétences :
 - parfaite bilingue FR/NL
 - monoparentale
-- 
+- empathie
 
 ## Ce que j'aime le plus au monde :
 - ma fille
