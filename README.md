@@ -28,6 +28,6 @@ Je m'appelle Charlotte, j'ai 34 ans. J'habite actuellement à Chaudfontaine et j
 - le partage 
 
 ## Mon GIF préféré :
-![GIF](./mijngif.gif)
+![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJ5cGRvYzQzcGIycTN2cGxlMXZ1Y21lc3g5NnhwZjk1cGlycmFieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q66ZEIpjEQddUOOKGW/giphy.gif)
 
 
