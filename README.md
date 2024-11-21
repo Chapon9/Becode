@@ -1,5 +1,5 @@
 # Charlotte, Junior Developer
-Je m'appelle Charlotte, j'ai 34 ans. J'habite actuellement à Chaudfontaine et je me réoriente professionnellement. 
+rrrrr 
 
 ## 3 compétences :
 - parfaite bilingue FR/NL
