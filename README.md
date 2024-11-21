@@ -1,8 +1,11 @@
 # Charlotte, Junior Developer
+
 rrrrr 
 
+
+
 ## 3 compétences :
-- parfaite bilingue FR/NL
+- parfaite bilingue EN/NL
 - monoparentale
 - empathie
 
