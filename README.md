@@ -1,5 +1,8 @@
 # Charlotte, Junior Developer
 
+rrrrr 
+
+
 
 ## 3 compétences :
 - parfaite bilingue EN/NL
@@ -28,6 +31,6 @@
 - le partage 
 
 ## Mon GIF préféré :
-![GIF](./mijngif.gif)
+![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJ5cGRvYzQzcGIycTN2cGxlMXZ1Y21lc3g5NnhwZjk1cGlycmFieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q66ZEIpjEQddUOOKGW/giphy.gif)
 
 
